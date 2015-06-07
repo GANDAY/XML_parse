@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XML_parse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_individual_alumnos">individual_alumnos</string>
+    <string name="clave">No control:</string>
+    <string name="clave2">no control </string>
+    <string name="nombre">Nombre: </string>
+    <string name="nombre2">nombre </string>
+    <string name="apellidop">Apellido Paterno: </string>
+    <string name="apellidop2">apellido </string>
+    <string name="apellidom">Apellido Materno: </string>
+    <string name="apellidom2">Apellido </string>
+    <string name="carrera">Carrera: </string>
+    <string name="carrera2">carrera </string>
+
+</resources>
